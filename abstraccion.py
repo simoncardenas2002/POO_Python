@@ -23,3 +23,5 @@ class Lavadora:
 if __name__ == '__main__':
   lavadora=Lavadora()
   lavadora.lavar()
+  print("-"*20)
+  
